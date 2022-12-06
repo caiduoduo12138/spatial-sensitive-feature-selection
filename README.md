@@ -5,6 +5,7 @@ Due to underwater scenes are often accompanied by blur, scale variation, color s
 ![picture](https://github.com/caiduoduo12138/spatial-sensitive-feature-selection/blob/main/img1.png)
 # Dataset
 [download link:]http://www.gocit.cn
+
 We only provide the min-data for preview. For the whole dataset, please contact the author.
 # Visual Results
 ![picture](https://github.com/caiduoduo12138/spatial-sensitive-feature-selection/blob/main/img2.png)
